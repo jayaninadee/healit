@@ -7,7 +7,7 @@ return [
 
     'hour' => env('SCHEDULE_HOUR', ''),
     'min' => env('SCHEDULE_MIN', ''),
-    'is_demo' => env('IS_DEMO', false),
+    // 'is_demo' => env('IS_DEMO', false),
     /*
     |--------------------------------------------------------------------------
     | Application Name
@@ -19,7 +19,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'Heal It'),
 
     /*
     |--------------------------------------------------------------------------

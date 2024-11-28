@@ -14,12 +14,12 @@
                         <div class="col-xl-4 col-md-6 d-flex flex-column mx-auto">
                             <div class="card card-plain mt-8">
                                 <div class="card-header pb-0 text-left bg-transparent text-center">
-                                    <h3 class="font-weight-black text-dark display-6">Welcome back</h3>
-                                    <p class="mb-0">Welcome back!</p>
+                                    <h3 class="font-weight-black text-dark display-6">Welcome back!</h3>
+                                    <!-- <p class="mb-0">Welcome back!</p> -->
                                     <p class="mb-0">Create a new acount<br></p>
-                                    <p class="mb-0">OR Sign in with these credentials:</p>
-                                    <p class="mb-0">Email: <b>admin@corporateui.com</b></p>
-                                    <p class="mb-0">Password: <b>secret</b></p>
+                                    <p class="mb-0">OR Sign in with your credentials:</p>
+                                    <!-- <p class="mb-0">Email: <b></b></p>
+                                    <p class="mb-0">Password: <b>secret</b></p> -->
                                 </div>
                                 <div class="text-center">
                                     @if (session('status'))
@@ -40,13 +40,13 @@
                                         <div class="mb-3">
                                             <input type="email" id="email" name="email" class="form-control"
                                                 placeholder="Enter your email address"
-                                                value="{{ old('email') ? old('email') : 'admin@corporateui.com' }}"
+                                                value="{{ old('email') ? old('email') : 'admin@healit.com' }}"
                                                 aria-label="Email" aria-describedby="email-addon">
                                         </div>
                                         <label>Password</label>
                                         <div class="mb-3">
                                             <input type="password" id="password" name="password"
-                                                value="{{ old('password') ? old('password') : 'secret' }}"
+                                                value="{{ old('password') ? old('password') : 'H3alit@321' }}"
                                                 class="form-control" placeholder="Enter password" aria-label="Password"
                                                 aria-describedby="password-addon">
                                         </div>
@@ -85,13 +85,12 @@
                         <div class="col-md-6">
                             <div class="position-absolute w-40 top-0 end-0 h-100 d-md-block d-none">
                                 <div class="oblique-image position-absolute fixed-top ms-auto h-100 z-index-0 bg-cover ms-n8"
-                                    style="background-image:url('../assets/img/image-sign-in.jpg')">
+                                    style="background-image:url('../assets/img/2.png')">
                                     <div
                                         class="blur mt-12 p-4 text-center border border-white border-radius-md position-absolute fixed-bottom m-4">
-                                        <h2 class="mt-3 text-dark font-weight-bold">Enter our global community of
-                                            developers.</h2>
-                                        <h6 class="text-dark text-sm mt-5">Copyright © 2022 Corporate UI Design System
-                                            by Creative Tim.</h6>
+                                        <h2 class="mt-1 font-weight-black text-dark">Donation Management System.</h2>
+                                        <h6 class="text-dark text-sm mt-5">Copyright © 2024 Heal  It
+                                            by    ♥️ AnonLABZ ♥️</h6>
                                     </div>
                                 </div>
                             </div>

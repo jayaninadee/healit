@@ -107,7 +107,12 @@ hr {
   border-top: 1px solid;
   opacity: 0.25;
 }
-
+heal {
+  font-family: "Purple Purse", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-style: var(--bs-blue);
+}
 h1,
 .h1,
 h2,
@@ -20126,19 +20131,15 @@ fieldset:disabled .btn {
 
 /*!
 
+
 =========================================================
-* Corporate UI Dashboard - v1.0.0
+* Heal It- v1.0.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/corporate-ui-dashboard
-* Copyright 2022 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (site.license)
-
-* Coded by www.creative-tim.com
+* Coded by Jayani Nadeesha
 
 =========================================================
 
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 */
 .btn-close:focus {

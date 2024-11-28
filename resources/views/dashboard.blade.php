@@ -7,8 +7,8 @@
                 <div class="col-md-12">
                     <div class="d-md-flex align-items-center mb-3 mx-2">
                         <div class="mb-md-0 mb-3">
-                            <h3 class="font-weight-bold mb-0">Hello, Noah</h3>
-                            <p class="mb-0">Apps you might like!</p>
+                            <h3 class="font-weight-bold mb-0">Welcome to Heal It</h3>
+                            <p class="mb-0">Heal them with your feel.</p>
                         </div>
                         <button type="button"
                             class="btn btn-sm btn-white btn-icon d-flex align-items-center mb-0 ms-md-auto mb-sm-0 mb-2 me-2">
@@ -27,7 +27,7 @@
                                         d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0l3.181 3.183a8.25 8.25 0 0013.803-3.7M4.031 9.865a8.25 8.25 0 0113.803-3.7l3.181 3.182m0-4.991v4.99" />
                                 </svg>
                             </span>
-                            <span class="btn-inner--text">Sync</span>
+                            <span class="btn-inner--text">Refresh</span>
                         </button>
                     </div>
                 </div>
@@ -42,7 +42,7 @@
                                     <div
                                         class="card card-background shadow-none border-radius-xl card-background-after-none align-items-start mb-0">
                                         <div class="full-background bg-cover"
-                                            style="background-image: url('../assets/img/img-2.jpg')"></div>
+                                            style="background-image: url('../assets/img/img-2.png')"></div>
                                         <div class="card-body text-start px-3 py-0 w-100">
                                             <div class="row mt-12">
                                                 <div class="col-sm-3 mt-auto">
@@ -65,7 +65,7 @@
                                 <div
                                     class="card card-background shadow-none border-radius-xl card-background-after-none align-items-start mb-0">
                                     <div class="full-background bg-cover"
-                                        style="background-image: url('../assets/img/img-1.jpg')"></div>
+                                        style="background-image: url('../assets/img/img-1.png')"></div>
                                     <div class="card-body text-start px-3 py-0 w-100">
                                         <div class="row mt-12">
                                             <div class="col-sm-3 mt-auto">
@@ -149,7 +149,7 @@
                                 <div
                                     class="card card-background shadow-none border-radius-xl card-background-after-none align-items-start mb-0">
                                     <div class="full-background bg-cover"
-                                        style="background-image: url('../assets/img/img-1.jpg')"></div>
+                                        style="background-image: url('../assets/img/img-1.png')"></div>
                                     <div class="card-body text-start px-3 py-0 w-100">
                                         <div class="row mt-12">
                                             <div class="col-sm-3 mt-auto">

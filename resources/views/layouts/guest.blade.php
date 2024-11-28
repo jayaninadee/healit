@@ -1,15 +1,13 @@
 <!--
 =========================================================
-* Corporate UI - v1.0.0
+* Heal It- v1.0.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/corporate-ui
-* Copyright 2022 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://www.creative-tim.com/license)
-* Coded by Creative Tim
+* Coded by Jayani Nadeesha
 
 =========================================================
 -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -18,20 +16,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     @if (config('app.is_demo'))
         <title itemprop="name">
-            Corporate UI Dashboard Laravel by Creative Tim & UPDIVISION
+            Heal It
         </title>
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@CreativeTim" />
-        <meta name="twitter:creator" content="@CreativeTim" />
-        <meta name="twitter:title" content="Corporate UI Dashboard Laravel by Creative Tim & UPDIVISION" />
-        <meta name="twitter:description" content="Fullstack tool for building Laravel apps with hundreds of UI components and
-            ready-made CRUDs" />
-        <meta name="twitter:image"
-            content="https://s3.amazonaws.com/creativetim_bucket/products/737/original/corporate-ui-dashboard-laravel.jpg?1695288974" />
-        <meta name="twitter:url" content="https://www.creative-tim.com/live/corporate-ui-dashboard-laravel" />
-        <meta name="description" content="Fullstack tool for building Laravel apps with hundreds of UI components
-            and ready-made CRUDs">
+      
+        
         <meta name="keywords"
             content="creative tim, updivision, html dashboard, laravel, api, html css dashboard laravel,  Corporate UI Dashboard Laravel,  Corporate UI Laravel,  Corporate Dashboard Laravel, UI Dashboard Laravel, Laravel admin, laravel dashboard, Laravel dashboard, laravel admin, web dashboard, bootstrap 5 dashboard laravel, bootstrap 5, css3 dashboard, bootstrap 5 admin laravel, frontend, responsive bootstrap 5 dashboard, corporate dashboard laravel,  Corporate UI Dashboard Laravel">
         <meta property="og:app_id" content="655968634437471">
@@ -50,7 +38,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
     <link rel="icon" type="image/png" href="../assets/img/favicon.png">
     <title>
-        Corporate UI by Creative Tim & UPDIVISION
+        Heal It
     </title>
     <!--     Fonts and icons     -->
     <link
